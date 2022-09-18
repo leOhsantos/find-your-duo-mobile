@@ -3,7 +3,7 @@ import { THEME } from '../../theme';
 
 export const styles = StyleSheet.create({
   container: {
-    width: 200,
+    width: 210,
     backgroundColor: THEME.COLORS.SHAPE,
     borderRadius: 8,
     padding: 20,
