@@ -3,7 +3,7 @@
 <h1 align="left"> 🎮 Find Your Duo - Mobile</h1>
 <p align="left">O Find Your Duo é um projeto que foi desenvolvido durante a semana do evento NLW eSports disponibilizado pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
 <p>Esse projeto possui o objetivo de ajudar os players a encontrarem um parceiro ou uma parceira para jogarem juntos os seus jogos favoritos. </p>
-<p>Na versão mobile do Find Your Duo, será onde o player poderá se conectar a outros players para jogarem juntos. Inicialmente temos uma tela onde serão listados todos os jogos disponíveis na plataforma, e, ao clicar em algum jogo em específico, serão listados todos os anúncios que foram publicados para esse jogo através da versão web do Find Your Duo. Ao clicar em "Conectar" em algum anúncio, será mostrado na tela, através de um modal, o Discord do player ao qual publicou esse anúncio. E após isso é só procurar por esse player no Discord e ir para a gameplay!</p>
+<p>Na versão mobile do Find Your Duo, será onde o player poderá se conectar a outros players para jogarem juntos. Inicialmente temos uma tela onde serão listados todos os jogos disponíveis na plataforma, e, ao clicar em algum jogo em específico, serão listados todos os anúncios que foram publicados para esse jogo através da <a href="https://github.com/leOhsantos/FindYourDuoWeb">versão web</a> do Find Your Duo. Ao clicar em "Conectar" no anúncio de algum player, será mostrado na tela o Discord desse player através de um modal. E após isso é só procurar por esse player no Discord e ir para a gameplay!</p>
 </div>
 
 <br>
